@@ -7,19 +7,19 @@
 // If you want L3/R3, the PS button or analog sticks, you'll need to add them.
 
 #define PIN_UP        2
-#define PIN_DOWN      3
-#define PIN_LEFT      4
-#define PIN_RIGHT     5
-#define PIN_CROSS     6
-#define PIN_CIRCLE    7
-#define PIN_TRIANGLE  8
-#define PIN_SQUARE    9
-#define PIN_L1        10
-#define PIN_L2        14
-#define PIN_R1        16
-#define PIN_R2        15
-#define PIN_SELECT    18
-#define PIN_START     19
+#define PIN_DOWN      14
+#define PIN_LEFT      10
+#define PIN_RIGHT     18
+#define PIN_CROSS     19
+#define PIN_CIRCLE    3
+#define PIN_TRIANGLE  5
+#define PIN_SQUARE    4
+#define PIN_L1        7
+#define PIN_L2        9
+#define PIN_R1        6
+#define PIN_R2        8
+#define PIN_SELECT    16
+#define PIN_START     15
 
 int stickMode = 0; // 0 = dpad, 1 = left stick
 
